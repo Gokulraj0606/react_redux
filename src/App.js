@@ -4,15 +4,15 @@ import './App.css';
 function App() {
   const users = [
     {
-      name: "sethu",
+      name: "Sethu",
       pic: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Um8cYinLpQ9vPBUerzsWf2kApxrF38iWgw&usqp=CAU"
     },
     {
-      name: "resvanth",
+      name: "Resvanth✔",
       pic: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq6eQppcP6_F1F7ji-mfmlZK4kDKztrktR4g&usqp=CAU"
     },
     {
-      name: "varunya",
+      name: "Varunya",
       pic: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYr4CcfLo-IfFqPgnocAr1bVdEQULTuIRFw&usqp=CAU"
     }
   ]
